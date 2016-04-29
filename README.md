@@ -1,4 +1,4 @@
-# monitor-stat-kafka
+# Monitor-stat-kafka
 
 Create a monitor system which report realtime statistics  using Java, Kafka and Graphite
 
@@ -6,7 +6,11 @@ Language: Java
 Data feeding :  Kafka  
 Metrics dashboard:  Grafana   
 Chart:  Graphite  
-
+## Features
+- monitor at application/user views.
+- have a deeper view at business logic, what’s happening, what users are doing, how application is actually working.
+- let other (not technical) people help you monitoring the system.
+￼￼￼￼￼￼
 
 ##Kafka
 Apache Kafka is an open-source message broker project developed by the Apache Software Foundation written in Scala. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.  
